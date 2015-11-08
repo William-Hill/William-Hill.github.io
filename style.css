@@ -1,0 +1,35 @@
+h1{
+	color: maroon;
+	text-align: center;
+}
+nav{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-family: 
+}
+img{
+	/*display: inline;*/
+	/*float: right;*/
+	/*position: fixed;*/
+	border: solid;
+	border-color: maroon;
+	border-width: 3px;
+	padding: 10px 5px 5px 5px;
+	/*margin: 10px 3px 4px 5px; */
+	/*height: 350px;*/
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 600px;*/
+}
+
+.firstThree{
+	color:purple;
+}
+
+section p{
+	color: purple;
+}
